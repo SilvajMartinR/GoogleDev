@@ -1,6 +1,6 @@
 package projectEuler;
 
-public class projectEuler {
+public class projectEuler1 {
 
     public static void main(String[] args){
 
